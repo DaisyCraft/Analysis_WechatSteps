@@ -1,4 +1,3 @@
-# README
 # Analysis_WechatSteps
 用于从视频中提取微信步数汇总
 
