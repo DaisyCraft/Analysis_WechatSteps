@@ -1,5 +1,5 @@
 # README
-
+# Analysis_WechatSteps
 用于从视频中提取微信步数汇总
 
 使用方法
@@ -24,8 +24,6 @@ reshape是因为单位要求打印，放到word里看不清，最重要的就是
 
 我自己是3060显卡，材料1.8G的跑了大概三个多小时，可以大概估算一下
 
-希望能帮上你# Analysis_WechatSteps
-# Analysis_WechatSteps
-# Analysis_WechatSteps
-# Analysis_WechatSteps
-# Analysis_WechatSteps
+希望能帮上你
+
+
